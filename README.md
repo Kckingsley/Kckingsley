@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kckingsley
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently a learning ALX Software Engineering Programme
+- 💞️ I’m looking to collaborate and share ideas related to the engineering field.
+- 📫 How to reach +2348146553031
